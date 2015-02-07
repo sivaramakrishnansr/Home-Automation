@@ -13,10 +13,10 @@ if word == ":(":
 	mood = "sad"
 	conn.send("2")
 if word == ":/":
-	mood = "bleh"
+	mood = "gloomy"
 	conn.send("3")
 if word == ":D":
-	mood = "laughin"
+	mood = "laughing"
 	conn.send("4")
 if word == ":X":
 	mood = "angry"
