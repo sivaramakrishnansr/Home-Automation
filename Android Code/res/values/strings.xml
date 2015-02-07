@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">clientmobile2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gal">GalActivity</string>
+    <string name="title_activity_lock">LockActivity</string>
+    <string name="fan_on">Fan On</string>
+    <string name="fan_off">Fan Off</string>
+    <string name="light_on">Light On</string>
+    <string name="light_off">Light Off</string>
+    <color name="white">#E6E6E6</color>
+    <string name="enter">Unlock Door</string>
+</resources>
